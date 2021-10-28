@@ -27,6 +27,7 @@
     "test": "craco test",
     "eject": "craco eject"
   },
+  "proxy": "https://qametroi.herokuapp.com/",
   "eslintConfig": {
     "extends": [
       "react-app"
