@@ -6,9 +6,10 @@ import {
 
 import './css/style.scss';
 
-import AOS from 'aos';
+//import AOS from 'aos';
 import { focusHandling } from 'cruip-js-toolkit';
 import React,{ useEffect, useState} from 'react';
+import './App.css';
 import axios from 'axios';
 
 import Home from './pages/Home';
